@@ -4,7 +4,7 @@
 
 |                 Open Temporal Graph                  |                        OTGNet                        |
 | :--------------------------------------------------: | :--------------------------------------------------: |
-| <img src="./figures/teaser.png" style="zoom:3%;" /> | <img src="./figures/OTGNet.png" style="zoom:100%;" /> |
+| <img src="./figures/teaser.png" style="zoom:1%;" /> | <img src="./figures/OTGNet.png" style="zoom:100%;" /> |
 
 
 
