@@ -1,4 +1,4 @@
-# OTGNet: Towards Open Temporal Graph Neural Networks (ICLR 2023)
+# OTGNet: Towards Open Temporal Graph Neural Networks (ICLR 2023 Oral)
 
 
 
