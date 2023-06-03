@@ -124,7 +124,7 @@ for rp in range(rp_times):
     print(str(args))
     # data processing
     node_features, edge_features, full_data, train_data, val_data, test_data, all_data, re_train_data, re_val_data = get_data(dataset,n_task,n_class,blurry)
-    sd=int(time.time())%100
+    sd=int(time.time())%100 # Note that this seed can't fix the results
     np.random.seed(sd)  # cpu vars
     torch.manual_seed(sd)  # cpu  vars
     random.seed(sd)
